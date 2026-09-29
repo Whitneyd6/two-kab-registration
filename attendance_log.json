@@ -1,0 +1,7 @@
+{
+  "students": { "S001": { "name": "Jane Doe" } },
+  "records": [
+    { "student_id": "S001", "date": "2026-09-21",
+      "status": "Present", "timestamp": "2026-09-21T08:15:00" }
+  ]
+}
